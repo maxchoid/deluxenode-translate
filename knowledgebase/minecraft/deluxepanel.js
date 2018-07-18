@@ -1,3 +1,5 @@
+#So greifen Sie auf das DeluxeNode-Panel zu
+
 Server erworben haben, erfolgt die Steuerung für den Server über das DeluxeNode-Panel.
 Möglicherweise wurden Sie auch einem Server hinzugefügt, mit dem Sie sich auch anmelden können, um einen Server zu steuern.
 

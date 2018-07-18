@@ -1,3 +1,5 @@
+#Wie ändere ich einen Servernamen?
+
 Unsere Minecraft-Pläne bieten die Möglichkeit, den angezeigten Namen zu ändern.
 Sie können sie von randomisierten Zeichen zu besser identifizierbaren Namen ändern, insbesondere wenn Sie mehrere Server erwerben.
 

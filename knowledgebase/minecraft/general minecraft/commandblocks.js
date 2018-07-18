@@ -1,3 +1,5 @@
+#Wie man Befehlsblöcke aktiviert
+
 In Minecraft besteht der Befehlsblock aus speziellen Blöcken in Minecraft, mit denen Befehle standardmäßig ausgeführt werden können, wenn ein Redstone-Signal an sie gesendet wird. Sie können jedoch auf viele Arten konfiguriert werden.
 Dies kann nützlich sein, um Spieler von ihnen zu teleportieren, die auf einer Druckplatte stehen, und einige Karten benutzen das.
 

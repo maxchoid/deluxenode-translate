@@ -1,3 +1,5 @@
+#Wie erzwinge SSL mit .htaccess
+
 Wenn Sie SSL immer auf Ihrer Website haben möchten, können Sie .htaccess auf unserem Webhosting verwenden.
 Dies ist eine Funktion in Apache, die ein einfaches Hinzufügen der Konfiguration ermöglicht.
 

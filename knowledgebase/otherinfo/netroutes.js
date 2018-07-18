@@ -1,3 +1,4 @@
+#Netzwerkrouten
 
 Wir verwenden mehr Routen wie DE-CiX, die eine direkte Glasfaserverbindung direkt nach New York und anderen Standorten mit einer Kapazität von 37,7 TBit im gesamten Netzwerk bietet. Dies ermöglicht es uns, Ping für Kunden in New York und umliegenden Orten mit einer Dauer von bis zu 80 ms anzubieten, aber das Potenzial, bei besseren Bedingungen auf 70 ms zu sinken.
 

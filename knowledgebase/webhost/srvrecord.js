@@ -1,3 +1,4 @@
+#Erstellen eines SRV-Eintrags für Minecraft in cPanel
 
 Mit all unseren freigegebenen IP-Minecraft-Plänen können Sie Ihre (Sub-) Domain mit Ihrem Server verknüpfen, und dazu müssen Sie einen SRV-Eintrag einrichten.
 Wenn Sie eine dedizierte IP-Adresse gekauft haben oder einen Unternehmensserver haben, können Sie stattdessen einen A-Eintrag einrichten, der diese IP verwendet.

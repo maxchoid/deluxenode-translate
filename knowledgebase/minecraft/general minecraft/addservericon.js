@@ -1,3 +1,5 @@
+#So fügen Sie ein Serversymbol hinzu
+
 Mit Minecraft können Sie ein Server-Symbol hinzufügen, das in den Serverlisten des Spiels für Personen angezeigt wird, die Ihren Server hinzugefügt haben.
 Dieses Symbol ist normalerweise das Logo des Servers.
 

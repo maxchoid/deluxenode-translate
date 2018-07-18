@@ -1,3 +1,5 @@
+#Wie ändere ich die PHP-Version?
+
 Wenn Sie ein Webhosting-Paket bestellen, stellen wir standardmäßig eine der neuesten PHP-Versionen zur Verfügung.
 Ihre Webanwendung benötigt möglicherweise eine andere Version von PHP, um korrekt zu funktionieren.
 

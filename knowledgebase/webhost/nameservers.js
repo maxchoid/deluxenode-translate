@@ -1,3 +1,6 @@
+#Was sind die Nameserver?
+
+
 
 Die Nameserver, die Sie bei Ihrem Registrar verwenden müssen, sind:
 ns1.ns.deluxenode.com

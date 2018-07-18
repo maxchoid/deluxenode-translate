@@ -1,3 +1,4 @@
+#DDoS-Schutz
 
 Ein DDoS-Angriff (Distributed Denial-of-Service) ist ein Angriff, bei dem mehrere kompromittierte Computersysteme ein Ziel wie einen Server, eine Website oder eine andere Netzwerkressource angreifen und einen Denial-of-Service für Benutzer der Zielressource verursachen. Die Flut von eingehenden Nachrichten, Verbindungsanforderungen oder fehlerhaften Paketen an das Zielsystem zwingt sie dazu, langsamer zu werden oder sogar abzustürzen und herunterzufahren, wodurch legitimen Benutzern oder Systemen der Dienst verweigert wird.
 

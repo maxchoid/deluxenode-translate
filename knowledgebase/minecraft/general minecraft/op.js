@@ -1,3 +1,5 @@
+#Wie man einen Spieler in Minecraft opfert
+
 Sobald Sie Ihren neuen Minecraft-Server erhalten haben, müssen Sie, bevor Sie ein Berechtigungs-Plug-in erhalten, Anweisungen ausführen.
 Mit OP- oder Operatorberechtigungen können Sie Verwaltungsbefehle auf Ihrem Server ausführen.
 

@@ -1,3 +1,5 @@
+#Wie setze ich die Welt zurück?
+
 Wenn Sie von Ihrer aktuellen Welt gelangweilt sind, können Sie sie einfach zurücksetzen.
 Dieses Tutorial behandelt keine benutzerdefinierten Generatoren.
 1. Logge dich in das DeluxeNode-Panel unter https://panel.deluxenode.com/ ein und wähle den Server aus, von dem du die Welt zurücksetzen möchtest.

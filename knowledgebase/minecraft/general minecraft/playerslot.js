@@ -1,3 +1,4 @@
+#Wie ändere ich das Slotlimit des Spielers?
 
 Wenn du herausgefunden hast, dass du mehr Spieler spielen kannst, kannst du das Slotlimit erhöhen, um mehr zu halten.
 Unser Support ist mehr als glücklich, Ihnen eine Einschätzung zu geben, wenn Sie nicht sicher sind, ob Sie das Paket, die Plugins, die Welten oder die Anzahl der Spieler beurteilen.
