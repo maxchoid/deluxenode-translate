@@ -1,3 +1,5 @@
+#Wie man ein Service upgrade / downgradet
+
 Wenn Sie Ihr Paket auf ein größeres oder ein kleineres Paket upgraden müssen, können Sie dies tun.
 Dies gilt nur für einige Pakete.
 1. Wechseln Sie zum Kundenbereich unter https://deluxenode.com/clientnarea

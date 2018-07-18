@@ -1,3 +1,4 @@
+#Wie lade ich einen Discord.js-Bot hoch?
 
 Bei der Bestellung von Diskord Bot Discord.js-Hosting erhalten Sie ein System, das Node.js-Bots ausführen kann.
 Standardmäßig können Sie standardmäßige Node.js-Bots mit allen Modulen und Paketdateien hochladen und sie wird nach dem Start ausgeführt.

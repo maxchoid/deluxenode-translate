@@ -1,3 +1,5 @@
+#Wie kann ich eine Rückerstattung beantragen?
+
 Wenn Sie sich für eine Rückerstattung entscheiden, haben unsere Bedingungen Informationen darüber, wie lange Sie eine Rückerstattung anfordern können.
 Sie finden die Nutzungsbedingungen unter https://deluxenode.com/info/terms.
 

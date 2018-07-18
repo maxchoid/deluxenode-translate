@@ -1,3 +1,5 @@
+#So aktualisieren Sie Kontoinformationen
+
 Wenn Sie einen Tippfehler gemacht haben oder nur die Kontoinformationen aktualisieren müssen, ist dies problemlos möglich.
 Alle Konten, die von unserem Anti-Betrug erfasst werden, müssen ihre Konten auf diese Weise aktualisieren.
 

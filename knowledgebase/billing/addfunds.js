@@ -1,3 +1,4 @@
+#Wie man Mittel hinzufügt
 
 Wir bieten die Funktionalität, um Ihrem DeluxeNode-Konto Geld hinzuzufügen. Wenn Mittel hinzugefügt werden, können Sie dann Mittel für neue Aufträge oder für bestehende Rechnungen verwenden.
 

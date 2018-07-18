@@ -1,3 +1,5 @@
+#So aktivieren Sie den Root-SSH-Zugriff mit Passwörtern auf unseren VPS.
+
 Wenn Sie den Passwort-Zugriff anstelle eines SSH-Schlüssels aktivieren möchten, um den Root-Benutzer Ihres DeluxeNode VPS zu steuern, folgen Sie dieser Anleitung.
 
 HINWEIS: Wir empfehlen dringend, zur Sicherheit einen SSH-Schlüssel anstelle der Kennwortauthentifizierung zu verwenden.
